@@ -4,4 +4,5 @@ def dev():
     pass
 
 def dev1():
+def master():
     pass
